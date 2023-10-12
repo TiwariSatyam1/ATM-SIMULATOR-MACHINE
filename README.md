@@ -5,5 +5,3 @@ enhance user experience using java & SWING GUI.
 deposits.
 • Implemented card authentication and PIN verification process, ensuring a secure and realistic
 user experience.
-• Developed a comprehensive transaction logging system to track and analyze user interactions.
-• Received positive feedback from peers for the project’s accuracy and attention to detail.
